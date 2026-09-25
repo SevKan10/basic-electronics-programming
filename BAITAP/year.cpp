@@ -27,7 +27,7 @@ int main(){
 		printf("Gia tri khong ton tai\n");
 		return main();		
 	} else {
-		printf("%i / %i / %i", day, month, year);
+		printf("%02i / %02i / %i", day, month, year);
 	}
 
 	return 0;
