@@ -17,7 +17,9 @@ int main(){
 		if (numArr[i] > max){
 			max = numArr[i];
 		}
-	}	
+	}
+	
+	printf("\n");
 	printf("Number max: %i", max);
 	return 0;	
 }
