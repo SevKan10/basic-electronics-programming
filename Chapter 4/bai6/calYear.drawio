@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Page-1" id="V6Xy1xbnv7Q1md_7NEpK">
-    <mxGraphModel dx="2020" dy="1201" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4040" dy="2403" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,7 +84,7 @@
         </UserObject>
         <UserObject label="Hàm getMonth month, nhuan" mermaidId="n:Ham_getMonth" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;verticalAlign=top;fillColor=light-dark(#ffffde,#1f2020);strokeColor=light-dark(#aaaa33,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Hàm getMonth month, nhuan" id="na7JiT4yiViDq2_fmNCP-13">
           <mxCell parent="na7JiT4yiViDq2_fmNCP-1" style="html=1;whiteSpace=wrap;strokeWidth=1;verticalAlign=top;fillColor=light-dark(#ffffde,#1f2020);strokeColor=light-dark(#aaaa33,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="518" width="2327" x="1481" y="30" as="geometry" />
+            <mxGeometry height="518" width="2327" x="30" y="574" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Bắt đầu getMonth" mermaidId="n:GM_Start" mermaidBaseStyle="html=1;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Bắt đầu getMonth" id="na7JiT4yiViDq2_fmNCP-14">
@@ -266,47 +266,47 @@
         </UserObject>
         <UserObject label="Bắt đầu chương trình" mermaidId="n:Start" mermaidBaseStyle="html=1;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Bắt đầu chương trình" id="na7JiT4yiViDq2_fmNCP-37">
           <mxCell parent="na7JiT4yiViDq2_fmNCP-1" style="html=1;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="39" width="179" x="3858" y="270" as="geometry" />
+            <mxGeometry height="39" width="179" x="345" y="1190" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Hàm main" mermaidId="n:Main" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Hàm main" id="na7JiT4yiViDq2_fmNCP-38">
           <mxCell parent="na7JiT4yiViDq2_fmNCP-1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="54" width="132" x="3882" y="598" as="geometry" />
+            <mxGeometry height="54" width="132" x="369" y="1518" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="In tiêu đề: HAY NHAP THANG VA NAM CUA BAN" mermaidId="n:PrintTitle" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="In tiêu đề: HAY NHAP THANG VA NAM CUA BAN" id="na7JiT4yiViDq2_fmNCP-39">
           <mxCell parent="na7JiT4yiViDq2_fmNCP-1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="54" width="390" x="3753" y="702" as="geometry" />
+            <mxGeometry height="54" width="390" x="240" y="1622" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Nhập tháng" mermaidId="n:InputMonth" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Nhập tháng" id="na7JiT4yiViDq2_fmNCP-40">
           <mxCell parent="na7JiT4yiViDq2_fmNCP-1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="54" width="143" x="3876" y="806" as="geometry" />
+            <mxGeometry height="54" width="143" x="363" y="1726" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Nhập năm" mermaidId="n:InputYear" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Nhập năm" id="na7JiT4yiViDq2_fmNCP-41">
           <mxCell parent="na7JiT4yiViDq2_fmNCP-1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="54" width="133" x="3881" y="910" as="geometry" />
+            <mxGeometry height="54" width="133" x="368" y="1830" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Gọi hàm getYear year" mermaidId="n:CallGetYear" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Gọi hàm getYear year" id="na7JiT4yiViDq2_fmNCP-42">
           <mxCell parent="na7JiT4yiViDq2_fmNCP-1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="54" width="215" x="3840" y="1014" as="geometry" />
+            <mxGeometry height="54" width="215" x="327" y="1934" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Gọi hàm getMonth month, nhuan" mermaidId="n:CallGetMonth" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Gọi hàm getMonth month, nhuan" id="na7JiT4yiViDq2_fmNCP-43">
           <mxCell parent="na7JiT4yiViDq2_fmNCP-1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="54" width="297" x="3799" y="1118" as="geometry" />
+            <mxGeometry height="54" width="297" x="286" y="2038" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="In kết quả: Tháng... năm... có... ngày" mermaidId="n:PrintResult" mermaidBaseStyle="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="In kết quả: Tháng... năm... có... ngày" id="na7JiT4yiViDq2_fmNCP-44">
           <mxCell parent="na7JiT4yiViDq2_fmNCP-1" style="html=1;whiteSpace=wrap;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="54" width="335" x="3780" y="1222" as="geometry" />
+            <mxGeometry height="54" width="335" x="267" y="2142" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Kết thúc" mermaidId="n:End" mermaidBaseStyle="html=1;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" mermaidBaseValue="Kết thúc" id="na7JiT4yiViDq2_fmNCP-45">
           <mxCell parent="na7JiT4yiViDq2_fmNCP-1" style="html=1;rounded=1;whiteSpace=wrap;arcSize=50;strokeWidth=1;fillColor=light-dark(#ECECFF,#1f2020);strokeColor=light-dark(#9370DB,#cccccc);fontColor=light-dark(#333333,#cccccc);fontFamily=Trebuchet MS,Verdana,Arial,sans-serif;fontSize=16;" vertex="1">
-            <mxGeometry height="39" width="86" x="3905" y="1326" as="geometry" />
+            <mxGeometry height="39" width="86" x="392" y="2246" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="" mermaidId="e:Start-&gt;Main#0" mermaidBaseStyle="curved=1;startArrow=none;endArrow=block;endSize=7;strokeColor=light-dark(#333333,#cccccc);exitX=0.5;exitY=1;entryX=0.5;entryY=0;" mermaidBaseValue="" id="na7JiT4yiViDq2_fmNCP-46">
