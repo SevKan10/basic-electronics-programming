@@ -1,0 +1,3 @@
+tram = n / 100;          // Lấy chữ số hàng trăm
+chuc = (n / 10) % 10;    // Lấy chữ số hàng chục
+donVi = n % 10;          // Lấy chữ số hàng đơn vị
