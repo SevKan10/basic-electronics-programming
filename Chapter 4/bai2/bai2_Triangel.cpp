@@ -8,12 +8,9 @@ int main(){
 
 	printf("CAL TRIANGLE\n");
 	
-	printf("Enter edge a: ");
-	scanf("%f", &a);
-	printf("Enter edge b: ");
-	scanf("%f", &b);
-	printf("Enter edge c: ");
-	scanf("%f", &c);
+	printf("Enter edge a: "); scanf("%f", &a);
+	printf("Enter edge b: "); scanf("%f", &b);
+	printf("Enter edge c: "); scanf("%f", &c);
 	
 	if((a+b) > c && (a+c) > b && (b+c) > a){
 		cv = a + b + c;
