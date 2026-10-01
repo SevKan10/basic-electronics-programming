@@ -7,10 +7,8 @@ int main(){
 
 	printf("TINH PHUONG TRINH BAC 1 ax+b = 0 \n");
 	
-	printf("Nhap he so a: ");
-	scanf("%f",&a);
-	printf("Nhap he so b: ");
-	scanf("%f",&b);
+	printf("Nhap he so a: "); scanf("%f",&a);
+	printf("Nhap he so b: "); scanf("%f",&b);
 	
 	if (a == 0 && b != 0){
 		printf("!!!Phuong trinh vo nghiem!!!\n");
