@@ -1,0 +1,68 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="Dc5AcIz0lZsuncmPuwA4">
+    <mxGraphModel dx="1414" dy="841" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="WhFiIzPTX8TYiNDKIkPe-9" edge="1" parent="1" source="WhFiIzPTX8TYiNDKIkPe-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;fontSize=14;" target="WhFiIzPTX8TYiNDKIkPe-3" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WhFiIzPTX8TYiNDKIkPe-2" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;fontSize=14;" value="Bắt đầu" vertex="1">
+          <mxGeometry height="80" width="120" x="350" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WhFiIzPTX8TYiNDKIkPe-8" edge="1" parent="1" source="WhFiIzPTX8TYiNDKIkPe-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;fontSize=14;" target="WhFiIzPTX8TYiNDKIkPe-4" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WhFiIzPTX8TYiNDKIkPe-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;fontSize=14;" value="Khởi tạo các biến &amp;amp; nhập số n" vertex="1">
+          <mxGeometry height="100" width="200" x="310" y="140" as="geometry" />
+        </mxCell>
+        <mxCell id="WhFiIzPTX8TYiNDKIkPe-7" edge="1" parent="1" source="WhFiIzPTX8TYiNDKIkPe-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;fontSize=14;" target="WhFiIzPTX8TYiNDKIkPe-5" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WhFiIzPTX8TYiNDKIkPe-11" connectable="0" parent="WhFiIzPTX8TYiNDKIkPe-7" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;fontSize=14;" value="Dúng" vertex="1">
+          <mxGeometry relative="1" x="0.0286" y="8" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WhFiIzPTX8TYiNDKIkPe-10" edge="1" parent="1" source="WhFiIzPTX8TYiNDKIkPe-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;fontSize=14;" target="WhFiIzPTX8TYiNDKIkPe-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WhFiIzPTX8TYiNDKIkPe-12" connectable="0" parent="WhFiIzPTX8TYiNDKIkPe-10" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontColor=#1D3557;fontSize=14;" value="Sai" vertex="1">
+          <mxGeometry relative="1" x="-0.4069" y="-6" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WhFiIzPTX8TYiNDKIkPe-4" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;fontSize=14;" value="for i&amp;lt;=n" vertex="1">
+          <mxGeometry height="100" width="160" x="330" y="280" as="geometry" />
+        </mxCell>
+        <mxCell id="WhFiIzPTX8TYiNDKIkPe-15" edge="1" parent="1" source="WhFiIzPTX8TYiNDKIkPe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="WhFiIzPTX8TYiNDKIkPe-14" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="WhFiIzPTX8TYiNDKIkPe-5" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;fontSize=14;" value="sum = sum + i&lt;div&gt;i++&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="200" x="310" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="WhFiIzPTX8TYiNDKIkPe-6" parent="1" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;fontSize=14;" value="in: sum ra màn hình" vertex="1">
+          <mxGeometry height="100" width="200" x="560" y="450" as="geometry" />
+        </mxCell>
+        <mxCell id="WhFiIzPTX8TYiNDKIkPe-14" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;fontSize=14;" value="Kết thúc" vertex="1">
+          <mxGeometry height="80" width="120" x="350" y="620" as="geometry" />
+        </mxCell>
+        <mxCell id="WhFiIzPTX8TYiNDKIkPe-16" edge="1" parent="1" source="WhFiIzPTX8TYiNDKIkPe-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="WhFiIzPTX8TYiNDKIkPe-14">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="660" y="660" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="WhFiIzPTX8TYiNDKIkPe-17" edge="1" parent="1" source="WhFiIzPTX8TYiNDKIkPe-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#457B9D;fontColor=#1D3557;fillColor=#A8DADC;" target="WhFiIzPTX8TYiNDKIkPe-4">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="500" />
+              <mxPoint x="220" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
