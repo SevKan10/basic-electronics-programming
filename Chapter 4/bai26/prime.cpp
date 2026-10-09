@@ -3,6 +3,7 @@
 
 int n;
 
+// thay vì kiểm tra số chia hết cho chính nó và 1 thì mình kiểm tra nó chia hết cho các số khác thì nó không phải là số nguyên tố.
 int checkPrime(int num){
     if (num < 2){return 0;}
     for (int i = 2; i <= sqrt(num); i++){
@@ -10,6 +11,7 @@ int checkPrime(int num){
     }
     return 1;
 }
+
 
 int main(){
 
@@ -21,9 +23,7 @@ int main(){
     }
 
     for (int i = 2; i <= n; i++){
-        if (checkPrime(i) == 1){
-            printf("So nguyen n la so nguyen to: %i\n", i);
-        }
+        if (checkPrime(i) == 1){printf("So nguyen n la so nguyen to: %i\n", i);}
     }
 
     return 0;
