@@ -25,12 +25,13 @@ void sortNum(int a[], int n){
 }
 
 void printNum(int a[], int n){
-    printf("So tang dan: ");
+    printf("So giam dan: ");
     for (int i = 0; i < n; i++){
         printf("%d ", a[i]);
     }
     printf("\n");
-    printf("So giam dan: ");
+
+    printf("So tang dan: ");
     for (int i = n - 1; i >= 0; i--){
         printf("%d ", a[i]);
     }
@@ -38,10 +39,8 @@ void printNum(int a[], int n){
 }
 
 int main(){
-    
     int a[100];
     int n;
-    
     n = enterNum(a);
 
     sortNum(a, n);
