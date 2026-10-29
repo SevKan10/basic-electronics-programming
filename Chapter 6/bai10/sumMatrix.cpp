@@ -3,8 +3,8 @@
 
 #define MAX 100
 
-void enterMatrix(int matrix[MAX][MAX], int m, int n, int matrixNumber) {
-    printf("Enter the matrix %d:\n", matrixNumber);
+void enterMatrix(int matrix[MAX][MAX], int m, int n, char* matrixNumber) {
+    printf("Enter the matrix %s:\n", matrixNumber);
 
     for (int i = 0; i < m; i++) {
         for (int j = 0; j < n; j++) {
@@ -14,8 +14,8 @@ void enterMatrix(int matrix[MAX][MAX], int m, int n, int matrixNumber) {
     }
 }
 
-void printMatrix(int matrix[MAX][MAX], int m, int n, int matrixNumber) {
-    printf("\nMATRIX TABLE %d\n", matrixNumber);
+void printMatrix(int matrix[MAX][MAX], int m, int n, char* matrixNumber) {
+    printf("\nMATRIX TABLE %s\n", matrixNumber);
 
     printf("+");
     for (int j = 0; j < n; j++) {
@@ -54,15 +54,15 @@ int main(){
     printf("Enter the number of rows: ");   scanf("%d", &m);
     printf("Enter the number of columns: ");   scanf("%d", &n);
 
-    enterMatrix(matrix1, m, n, 1);
-    enterMatrix(matrix2, m, n, 2);
+    enterMatrix(matrix1, m, n, "1");
+    enterMatrix(matrix2, m, n, "2");
 
-    printMatrix(matrix1, m, n, 1);
-    printMatrix(matrix2, m, n, 2);     
+    printMatrix(matrix1, m, n, "1");
+    printMatrix(matrix2, m, n, "2");     
 
     sumMatrix(matrix1, matrix2, result, m, n);
     printf("Result:");
-    printMatrix(result, m, n, 3);
+    printMatrix(result, m, n, "3");
 
     return 0;
 }
