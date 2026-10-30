@@ -9,8 +9,14 @@ void enterElements(int *arr, int n){
 }
 
 void printElements(int *arr, int n){
-    printf("The elements are: ");
+    printf("Increasing order: ");
     for(int i = 0; i < n; i++){
+        printf("%d ", *(arr + i));
+    }
+    printf("\n");
+
+    printf("Decreasing order: ");
+    for (int i = n -1; i >= 0; i--){
         printf("%d ", *(arr + i));
     }
     printf("\n");
