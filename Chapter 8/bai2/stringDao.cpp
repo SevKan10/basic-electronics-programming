@@ -1,3 +1,8 @@
+/*
+2. Viết chương trình nhập một chuỗi ký tự từ bàn phím, xuất ra màn hình chuỗi đảo
+ngược của chuỗi đó. Ví dụ đảo của “abcd egh” là “hge dcba”
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
