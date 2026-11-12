@@ -1,3 +1,8 @@
+/*
+1. Viết chương trình nhập một chuỗi ký tự từ bàn phím, xuất ra màn hình mã Ascii của
+từng ký tự có trong chuỗi
+*/
+
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
