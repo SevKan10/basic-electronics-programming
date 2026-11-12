@@ -1,3 +1,6 @@
+/*
+4. Nhập vào một chuỗi bất kỳ, hãy đếm số lần xuất hiện của mỗi loại ký tự.
+*/
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
