@@ -1,3 +1,9 @@
+/*
+3. Viết chương trình nhập một chuỗi ký tự và kiểm tra xem chuổi đó có đối xứng
+không.
+Ví dụ : Chuỗi ABCDEDCBA là chuỗi đối xứng.
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
